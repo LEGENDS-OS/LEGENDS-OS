@@ -1,13 +1,13 @@
 <h2 align="center"><b> ⠐Personal Information ⠐ </b></h2>
 
-<p align='Middle'><a href='https://t.me/Mr_Professor_Agora'><img src='https://te.legra.ph/file/83da89ab8179aa95671e1.jpg' width='750"'></a></p>
+<p align='Middle'><a href='https://t.me/Mr_StonedLegend'><img src='https://te.legra.ph/file/83da89ab8179aa95671e1.jpg' width='750"'></a></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=𝑨+𝑷𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆+𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓+𝒇𝒓𝒐𝒎+𝑲𝒂𝒓𝒏𝒂𝒕𝒂𝒌𝒂%E2%9C%8C%EF%B8%8F;Python%2C+Java%2C+Linux%E2%9D%A4%EF%B8%8F">
 </p> 
 <br>
 
-- 𝑵𝒂𝒎𝒆 = "[𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑 𝐀𝐆𝐎𝐑𝐀 {👨‍🏫}](https:/.t.me/mr_professor_agora)" ( 𝑀𝑟.𝐾𝑎𝑛𝑛𝑎𝑑𝑖𝑔𝑎 )
+- 𝑵𝒂𝒎𝒆 = "[𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑 𝐀𝐆𝐎𝐑𝐀 {👨‍🏫}](https:/.t.me/mr_stonedLegend)" ( 𝑀𝑟.𝐾𝑎𝑛𝑛𝑎𝑑𝑖𝑔𝑎 )
 
 - 𝑶𝒄𝒄𝒖𝒑𝒂𝒕𝒊𝒐𝒏 = "𝟑𝑫 𝑭𝒊𝒍𝒎 𝑴𝒂𝒌𝒆𝒓"
 
