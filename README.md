@@ -7,6 +7,18 @@
 </p> 
 <br>
 
+
+
+## Github Stats
+![AGORA's GitHub stats](https://github-readme-stats.vercel.app/api?username=MR-KANNADIGA&show_icons=true&theme=synthwave) &nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MR-KANNADIGA&layout=compact&show_icons=true&theme=synthwave)
+
+
+# Activity Graph
+
+
+![AGORA's GitHub Graph](https://activity-graph.herokuapp.com/graph?username=MR-KANNADIGA&custom_title=My%20Graph&bg_color=241731&line=f20f80&color=f52f91&point=fdf5ea&hide_border=true&area=false&area_color=fdf5ea)
+
 - 𝑵𝒂𝒎𝒆 = "[𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑 𝐀𝐆𝐎𝐑𝐀 {👨‍🏫}](https:/.t.me/mr_stonedLegend)" ( 𝑀𝑟.𝐾𝑎𝑛𝑛𝑎𝑑𝑖𝑔𝑎 )
 
 - 𝑶𝒄𝒄𝒖𝒑𝒂𝒕𝒊𝒐𝒏 = "𝟑𝑫 𝑭𝒊𝒍𝒎 𝑴𝒂𝒌𝒆𝒓"
